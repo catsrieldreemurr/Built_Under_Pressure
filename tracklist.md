@@ -28,7 +28,7 @@ Boss 2 – Watch This (The Foundation)
 
 Boss 3 – Terminal Velocity (The Foundation)
 
-Ice / Snow – I Made a Promise (Pressure)
+Ice / Snow – I made a Promise (Pressure)
 
 Space Night – I Dream of Electric Sheep (Pressure)
 
@@ -50,13 +50,13 @@ Dungeon – Contaminated (The Foundation)
 
 Plantera – Sewer Creature (Pressure)
 
-Queen Bee / Boss 5 – (Lead) (Pressure)
+Boss 5 (Mechdusa) – (Lead) (Pressure)
 
-Lihzahrd / Temple – Eldritch Horror, meet: (Pressure)
+Lihzard / Temple – Eldritch Horror, meet: (Pressure)
 
 Eclipse – Human Ingenuity (Pressure)
 
-Mushroom – I Heard Your Voice Again (Pressure)
+Mushroom – I Heard your voice again (Pressure)
 
 Pumpkin Moon – Welcome to the Ridge (Pressure)
 
@@ -74,11 +74,13 @@ Underworld – Big Sister is Watching (Pressure)
 
 Martian Madness – Star of the Show (Pressure)
 
-Moon Lord / Lunar Boss – Beneath the Final Light (Pressure)
+MoonLord / Lunar Boss – Beneath the Final Light (Pressure)
 
 Goblin Army – Eleventh Hour Remix (The Foundation)
 
 Sandstorm – Expendable (Pressure)
+
+Old Ones Army – ENRAGED (Pressure)
 
 Space Day – I Dream of Dreaming (Pressure)
 
@@ -88,7 +90,7 @@ Windy Day – Let's Waste Some Money (Pressure)
 
 Town Day – Rock Bottom (The Foundation)
 
-Town Night – Rock Bottom – Full Version (The Foundation)
+Town Night – Rock Bottom - Full Version (The Foundation)
 
 Slime Rain – Future Dumpster Diver (Pressure)
 
@@ -112,13 +114,33 @@ Tutorial / Morning Rain – Blasphemy (Pressure)
 
 Underground Desert – Eleventh Hour (The Foundation)
 
-Journey’s End – Fresh Rain (Doors)
+Journey's End – Fresh Rain (Doors)
 
-Deerclops – Seek Merch Trailer (Doors)
+Deerclops – Seek merch Trailer (Doors)
+
+Aether – Death Angel (Pressure)
+
+The Destroyer – Oh Dam (Doors)
+
+King SLime – DJ Skeletunes (Pressure)
+
+Lunatic Cultist – Voluntary Suicide (Pressure)
+
+Queen Bee – (Lead) (Pressure)
+
+The Twins – Not for Broadcast (Pressure)
+
+Skeletron Prime – Adrenaline Rush (The Foundation)
+
+Eater of Worlds – Maximum Security (The Foundation)
+
+Torch God – Have your Cake (And Eat it Too) (Pressure)
+
+Skeletron – Sinners Plea (Pressure)
 
 
 ## Credits
-Pressure Music by NoLongerNull, Zerohpoint & Beatimesfive
+Pressure Music by NoLongerNull, Zerohpoint, BeaTimesFive, MusicManaz & SmileySqueak
 
 Doors Music by LightningSplash
 
